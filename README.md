@@ -1,6 +1,8 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" height="50%" />
-
-# 💫 About Me:
+<div style="width: 100%;">
+  <img src="banner_github.png" alt="GitHub Banner" style="width: 100%; height: 450px;">
+</div>
+<!--
+# 💫 About Me: -->
 
 <h1>Hi 👋, I'm Ronit Kumar</h1>
 🔭 I’m currently working as Full stack Developer intern<br><br>🌱 I’m currently learning Gen Ai<br><br>📫Reach me kumarronit8750@gmail.com<br><br>
@@ -21,20 +23,24 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
+<!--
+## 🌐 Socials: -->
 
-## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pochadro/) 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pochadro/)
+<span>  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXE4MjU3dm1va25sbWV0ZGN0c3c2cTI4NDJ4MTRzeXJkM2t3d3JheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" alt="" style="width: 100%; height: 100px;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZuc2h3cHptY3diaDFyamhjMXRqMGthYWg4MGp0MjY1dGY5YjBwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif" alt="" style="width: 100%; height: 100px;"> </span>
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=itskmr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!--
+![](https://github-readme-stats.vercel.app/api?username=itskmr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=itskmr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itskmr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!--
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=itskmr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=itskmr&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 <!-- 
 ### 🔝 Top Contributed Repo
 
